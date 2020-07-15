@@ -38,3 +38,12 @@ Player movement is quite simple, WASD can be used for the movement and by holdin
 <a name="showcase"></a>
 ## Showcase
 
+### Main screen
+
+![alt text](https://github.com/DawidCiechowski/CoinChaser/blob/master/Annotation%202020-07-15%20141602.png)
+
+### Play Screen
+![alt text](https://github.com/DawidCiechowski/CoinChaser/blob/master/2020-07-15%20(13).png)
+
+### End Screen
+![alt text](https://github.com/DawidCiechowski/CoinChaser/blob/master/End%20Screen.png)
